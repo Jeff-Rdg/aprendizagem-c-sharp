@@ -32,6 +32,7 @@ namespace CursoCSharp.Fundamentos
             short salary = short.MaxValue;
             Console.WriteLine("Salario: " + salary);
 
+            // int = mais utilizado
             int menorValor = int.MinValue;
             Console.WriteLine("Menor int: " + menorValor);
 
@@ -43,6 +44,8 @@ namespace CursoCSharp.Fundamentos
 
             float precoComputador = 1299.99f;
 
+            // double = mais utilizado;
+            double maiorDouble = double.MaxValue;
 
         }
     }

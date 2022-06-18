@@ -9,5 +9,8 @@ Repositório mostrando meu desenvolvimento com a linguagem c#
 - Conceito da Notação ponto
 - Leitura de dados
 - Formatando Números
+- Conversões
+- Operadores Aritméticos
+- Operadores Relacionais
 
 --------------------------------------------------------------

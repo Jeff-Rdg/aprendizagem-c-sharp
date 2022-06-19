@@ -12,5 +12,14 @@ Repositório mostrando meu desenvolvimento com a linguagem c#
 - Conversões
 - Operadores Aritméticos
 - Operadores Relacionais
+- Operadores lógicos
+- Operadores de Atribuição
+- Operadores Unários
+- Operador Ternário
+
+--------------------------------------------------------------
+
+## Estrutura de Controle
+- Estrutura If
 
 --------------------------------------------------------------

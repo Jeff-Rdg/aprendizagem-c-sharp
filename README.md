@@ -24,5 +24,6 @@ Repositório mostrando meu desenvolvimento com a linguagem c#
 - Estrutura If/Else
 - Estrutura If/Else if
 - Estrutura Switch
+- Estrutura While
 
 --------------------------------------------------------------

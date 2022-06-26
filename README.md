@@ -21,5 +21,7 @@ Repositório mostrando meu desenvolvimento com a linguagem c#
 
 ## Estrutura de Controle
 - Estrutura If
+- Estrutura If/Else
+- Estrutura If/Else if
 
 --------------------------------------------------------------

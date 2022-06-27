@@ -28,5 +28,6 @@ Repositório mostrando meu desenvolvimento com a linguagem c#
 - Estrutura Do While
 - Estrutura For
 - Estrutura ForEach
+- Uso do Break - Estrutura de repetição
 
 --------------------------------------------------------------

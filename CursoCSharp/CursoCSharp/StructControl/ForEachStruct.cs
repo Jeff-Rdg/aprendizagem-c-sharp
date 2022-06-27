@@ -11,14 +11,14 @@ namespace CursoCSharp.StructControl
         public static void Executar()
         {
             var palavra = "opa!";
-
+            // foreach em string
             foreach(var letra in palavra)
             {
                 Console.WriteLine(letra);
             }
 
             var alunos = new string[] { "Ana", "Bia", "gui" };
-
+            // foreach em array
             foreach(var aluno in alunos)
             {
                 Console.WriteLine(aluno);

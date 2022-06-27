@@ -29,5 +29,6 @@ Repositório mostrando meu desenvolvimento com a linguagem c#
 - Estrutura For
 - Estrutura ForEach
 - Uso do Break - Estrutura de repetição
+- Uso do Continue - Estrutura de repetição
 
 --------------------------------------------------------------
